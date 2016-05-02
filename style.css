@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#colorPanel {
+    width: 100vw;
+    height: 100vh;
+    border: none;
+    background-color: hsla(52500, 90%, 60%, 1);
+    -webkit-transition: 1.8s ease;
+    transition: 1.8s ease;
+}
