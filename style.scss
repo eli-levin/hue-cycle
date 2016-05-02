@@ -1,15 +1,1 @@
-$i : calc(1/0.2*(50) * 210);//between 0 and 180 fo coeff
-$m_red: hsla($i, 90%, 60%, 1);
-
-body{
-    margin: 0;
-    overflow: hidden;
-}
-
-#colorPanel{
-    width: 100vw;
-    height: 100vh;
-    border: none;
-    background-color: $m_red;
-    transition: 1.8s ease;
-}
+You need to provide a path to the sass-convert program
