@@ -5,7 +5,7 @@ $(document).ready(function () {
         $("#colorPanel").css({
             "background-color": col
         });
-        i = (i < 180) ? i + 4 : 0;
+        i = (i < 180) ? i + 1 : 0;
         setTimeout(function () {
             animateColors(i)
         }, 2400);
