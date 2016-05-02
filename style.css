@@ -8,6 +8,6 @@ body {
     height: 100vh;
     border: none;
     background-color: hsla(52500, 90%, 60%, 1);
-    -webkit-transition: 2.4s ease;
-    transition: 2.4s ease;
+    -webkit-transition: 1.8s ease;
+    transition: 1.8s ease;
 }

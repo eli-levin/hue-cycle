@@ -8,7 +8,7 @@ $(document).ready(function () {
         i = (i < 180) ? i + 1 : 0;
         setTimeout(function () {
             animateColors(i)
-        }, 2400);
+        }, 1800);
     }
     animateColors(1);
 });
